@@ -1,0 +1,15 @@
+/* src/components/StorePage.css */
+.store-page h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 50px;
+  }
+  
+  .store-page .card {
+    transition: transform 0.3s;
+  }
+  
+  .store-page .card:hover {
+    transform: scale(1.05);
+  }
+  

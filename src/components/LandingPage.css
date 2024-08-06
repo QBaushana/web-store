@@ -1,0 +1,26 @@
+/* src/components/LandingPage.css */
+.landing-page {
+  background: url('https://source.unsplash.com/random/1600x900') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.landing-page-content {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.landing-page h1 {
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.landing-page p {
+  font-size: 1.5em;
+}
